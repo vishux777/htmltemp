@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+thead th {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+tbody td {
+    font-size: 16px;
+}
